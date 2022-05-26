@@ -5,7 +5,7 @@ Tool to find out the probability of finding a dating partner that meets your req
 
 a caveat - I do not agree with the intention of the original site, this is just a fun little project for me to play around with statistics
 
-## Statistics to store
+## Statistics added
 <ul>
 <li>race</li>
 <li>age</li>
